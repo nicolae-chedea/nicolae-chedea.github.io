@@ -26,7 +26,7 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("LinkedIn", "https://www.linkedin.com/in/nicolae-chedea-5a184830/"),
 )
 
 DEFAULT_PAGINATION = False
@@ -35,3 +35,9 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 
 PAGE_ORDER_BY = 'reversed-basename'
+
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+    }
