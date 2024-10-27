@@ -1,4 +1,6 @@
 Title: Welcome!
+URL:
+save_as: index.html
 Tags: static
 Slug: welcome
 Author: Nicolae Chedea
