@@ -1,19 +1,15 @@
-Title: Welcome!
+Title: Nicu CHEDEA
 URL:
 save_as: index.html
 Tags: static
 Slug: welcome
 Author: Nicolae Chedea
-Summary: Welcome to Chedea family's website!
+Summary: Welcome to Nicu Chedea's website!
 
-You have reached the site of Chedea family (west branch) 😄
+Hello! I'm Nicu and you can find here some (mostly professional) details about myself.
 
-Here is a photo of us from 2024:  
-![A recent trip to Thessaloniki]({static}/images/Salonic.jpg)
-<insert here photo>
+If you want to find out even more or to get in touch, check the links below!
 
-You might be interested to get in touch with one of us:
+[family]({filename}./family.md)
 
-[Nicu]({filename}./nicu.md)
-
-Have a great day!
+[travels]({filename}./travels.md)
