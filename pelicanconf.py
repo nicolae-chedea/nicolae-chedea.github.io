@@ -1,5 +1,5 @@
 AUTHOR = 'Nicolae CHEDEA'
-SITENAME = 'Chedea Family Website'
+SITENAME = 'Personal Website of Nicu CHEDEA'
 SITEURL = ""
 
 PATH = "content"
@@ -19,7 +19,6 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ("Pelican", "https://getpelican.com/"),
     ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
 )
 
 # Social widget
