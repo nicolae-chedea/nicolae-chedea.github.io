@@ -38,7 +38,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
     }
 
-THEME = "../pelican-themes/Flex"
+THEME = "theme"
 
 GITHUB_CORNER_URL = "https://github.com/nicolae-chedea/nicolae-chedea.github.io"
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
