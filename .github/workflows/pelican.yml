@@ -13,4 +13,4 @@ jobs:
     with:
       settings: "publishconf.py"
       requirements: "-r requirements.txt"
-      theme: "git@github.com:alexandrevicenzi/Flex.git"
+      theme: "https://github.com/alexandrevicenzi/Flex.git"
