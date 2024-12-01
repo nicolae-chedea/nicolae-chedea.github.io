@@ -18,6 +18,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Links
+LINKS = (
+    ("CV", "/pdf/Profile.pdf"),
+)
+
 # Social widget
 SOCIAL = (
     ("facebook", "https://www.facebook.com/nicolae.chedea"),
@@ -32,7 +37,7 @@ DEFAULT_PAGINATION = False
 
 PAGE_ORDER_BY = 'reversed-basename'
 
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico', 'pdf']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'}
